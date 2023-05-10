@@ -174,8 +174,8 @@ contextInfo: {
 externalAdReply: {
 title: date,
 body: 'bodynya',
-thumbnailUrl: "https://telegra.ph/file/dc5a67d724b016574129b.jpg",
-sourceUrl: "https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r",
+thumbnailUrl: "https://telegra.ph/file/a0708856eded6f465df30.jpg",
+sourceUrl: "https://chat.whatsapp.com/BWqK0cDNFqXFqwb8hGwbBU",
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
