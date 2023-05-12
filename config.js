@@ -6,30 +6,30 @@ untuk lainya saran jangan
 di ubah bre nanti eror]]*/
 
 /*global owner*/
-global.owner = ['6285878836361']  
-global.mods = ['6285878836361'] 
-global.prems = ['6285878836361']
+global.owner = ['6287762376734']  
+global.mods = ['6287762376734'] 
+global.prems = ['6287762376734']
 /*Nomor Owner & payment*/
-global.nameowner = 'rizki'
-global.numberowner = '6285878836361' 
-global.mail = '-' //enter your email 🗿
-global.dana = '-'
+global.nameowner = 'Razzorz'
+global.numberowner = '6287762376734' 
+global.mail = 'nyankobotapi@gmail.com' //enter your email 🗿
+global.dana = '087762376734'
 global.pulsa = '-'
 global.gopay = '-'
 /*Nama Bot & Grouplink*/
-global.namebot = 'Ikybot'
-global.gc = 'https://chat.whatsapp.com/BWqK0cDNFqXFqwb8hGwbBU'
-global.web = 'https://github.com/rizkiwibu'
-global.instagram = 'https://instagram.com/ikykunnnn'
+global.namebot = 'NyankoBotz×Razzorz'
+global.gc = 'https://chat.whatsapp.com/LRMr6oGj4M3A4G0L2yfTvT'
+global.web = 'https://github.com/NyankoBotz'
+global.instagram = 'https://instagram.com/razzorzina'
 /*global wm*/
-global.lolkey = 'rey2k22'
-global.zenzkey = 'BagasPrdn'
+global.lolkey = 'razzorz2k23'
+global.zenzkey = 'Razzorz'
 global.btc = 'Admin'
-global.wm = '©Ikyboy'
+global.wm = '©Razzorz'
 global.watermark = wm
-global.wm2 = '⫹⫺Ikybot'
-global.wm3 = '©Ikybot'
-global.wm4 = '©botIky'
+global.wm2 = '⫹⫺Razzorz'
+global.wm3 = '©Razzorz'
+global.wm4 = '©Razzorz'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nIkybot6285878836361'
+global.author = 'Bot WhatsApp\nRazorzzBot6287762376734'
 /*Rest api setting*/
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -56,7 +56,7 @@ global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://pencarikode.xyz': 'pais', 
   'https://zekais.com': 'apikeymu',
-  'https://api.botcahx.live': 'QaepQXxR', //daftar sendiri kalo abis
+  'https://api.botcahx.live': 'kG2rOeeN', //daftar sendiri kalo abis
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 
